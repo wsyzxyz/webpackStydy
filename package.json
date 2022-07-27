@@ -1,0 +1,27 @@
+{
+  "name": "webpackstudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "css-loader": "^5.2.4",
+    "html-webpack-plugin": "^4.5.2",
+    "mini-css-extract-plugin": "1.2",
+    "postcss": "^8.4.14",
+    "postcss-loader": "^4.2.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "browserslist": [
+    "ie > 8"
+  ]
+}
